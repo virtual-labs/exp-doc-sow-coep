@@ -1,0 +1,175 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "During project execution, who is responsible for ensuring that the project is progressing according to the project schedule?",
+      "answers": {
+        "a": "Project Manager",
+        "b": "Team Lead",
+        "c": "Engineer",
+        "d": "Quality Assurance"
+      },
+       "explanations": {
+                "a": "Explanation 1  <a href='www.google.com'>here</a>",
+                "b": "Explanation 2",
+                "c": "Explanation 2",
+                "d": "Explanation 2"
+            },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What is the primary purpose of a project dashboard in project execution?",
+      "answers": {
+        "a": "To track project progress and performance",
+        "b": "To identify and mitigate project risks",
+        "c": "To manage project changes and scope creep",
+        "d": "To allocate resources and assign tasks"
+      },
+       "explanations": {
+                "a": "Explanation 1  <a href='www.google.com'>here</a>",
+                "b": "Explanation 2",
+                "c": "Explanation 2",
+                "d": "Explanation 2"
+            },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "During project execution, what is the correct sequence of activities when a project task is completed?",
+      "answers": {
+        "a": "Update project schedule, notify team lead, document lessons learned",
+        "b": "Notify team lead, update project schedule, document lessons learned",
+        "c": "Document lessons learned, notify team lead, update project schedule",
+        "d": "Update project schedule, document lessons learned, notify team lead"
+      },
+       "explanations": {
+                "a": "Explanation 1  <a href='www.google.com'>here</a>",
+                "b": "Explanation 2",
+                "c": "Explanation 2",
+                "d": "Explanation 2"
+            },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Who is responsible for ensuring that project deliverables meet the required quality standards during project execution?",
+      "answers": {
+        "a": "Project Manager",
+        "b": "Quality Assurance",
+        "c": "Engineer",
+        "d": "Team Lead"
+      },
+      "explanations": {
+                "a": "Explanation 1  <a href='www.google.com'>here</a>",
+                "b": "Explanation 2",
+                "c": "Explanation 2",
+                "d": "Explanation 2"
+            },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the purpose of a project status report during project execution?",
+      "answers": {
+        "a": "To track project progress and performance",
+        "b": "To identify and mitigate project risks",
+        "c": "To manage project changes and scope creep",
+        "d": "To provide a detailed, step-by-step guide for project execution"
+      },
+       "explanations": {
+                "a": "Explanation 1  <a href='www.google.com'>here</a>",
+                "b": "Explanation 2",
+                "c": "Explanation 2",
+                "d": "Explanation 2"
+            },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "During project execution, what should be done when a project task is delayed?",
+      "answers": {
+        "a": "Notify the project sponsor and request a scope change",
+        "b": "Re-allocate resources to accelerate the task",
+        "c": "Identify the root cause and develop a recovery plan",
+        "d": "Ignore the delay and continue with the next task"
+      },
+      "explanations": {
+                "a": "Explanation 1  <a href='www.google.com'>here</a>",
+                "b": "Explanation 2",
+                "c": "Explanation 2",
+                "d": "Explanation 2"
+            },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Who is responsible for managing project changes and scope creep during project execution?",
+      "answers": {
+        "a": "Project Manager",
+        "b": "Change Management Team",
+        "c": "Engineer",
+        "d": "Team Lead"
+      },
+      "explanations": {
+                "a": "Explanation 1  <a href='www.google.com'>here</a>",
+                "b": "Explanation 2",
+                "c": "Explanation 2",
+                "d": "Explanation 2"
+            },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "During project execution, what is the purpose of a project meeting?",
+      "answers": {
+        "a": "To discuss project progress and performance",
+        "b": "To identify and mitigate project risks",
+        "c": "To manage project changes and scope creep",
+        "d": "To provide training and development opportunities"
+      },
+       "explanations": {
+                "a": "Explanation 1  <a href='www.google.com'>here</a>",
+                "b": "Explanation 2",
+                "c": "Explanation 2",
+                "d": "Explanation 2"
+            },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Who is responsible for ensuring that project documentation is complete and up-to-date during project execution?",
+      "answers": {
+        "a": "Project Manager",
+        "b": "Engineer",
+        "c": "Team Lead",
+        "d": "Document Controller"
+      },
+       "explanations": {
+                "a": "Explanation 1  <a href='www.google.com'>here</a>",
+                "b": "Explanation 2",
+                "c": "Explanation 2",
+                "d": "Explanation 2"
+            },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "During project execution, what should be done when a project issue is identified?",
+      "answers": {
+        "a": "Ignore the issue and continue with the project",
+        "b": "Notify the project sponsor and request a scope change",
+        "c": "Identify the root cause and develop a corrective action plan",
+        "d": "Re-allocate resources to accelerate the project"
+      },
+       "explanations": {
+                "a": "Explanation 1  <a href='www.google.com'>here</a>",
+                "b": "Explanation 2",
+                "c": "Explanation 2",
+                "d": "Explanation 2"
+            },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    }
+  ]
+}
