@@ -2,14 +2,14 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is the primary purpose of a Statement of Work (SOW) in a project?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "To define the project scope and objectives",
+        "b": "To outline the project schedule and timelines",
+        "c": "To determine the project budget and resources",
+        "d": "To identify the project risks and mitigation strategies"
       },
-      "explanations": {
+        "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
@@ -19,14 +19,31 @@
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which of the following is a characteristic of a well-structured Work Breakdown Structure (WBS)?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "It is a linear, sequential list of tasks",
+        "b": "It is a hierarchical decomposition of the project into smaller tasks",
+        "c": "It is a detailed, step-by-step guide for project execution",
+        "d": "It is a high-level overview of the project scope and objectives"
       },
-      "explanations": {
+       "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In an Instrumentation project company, which department is typically responsible for preparing the SOW?",
+      "answers": {
+        "a": "Engineering",
+        "b": "Procurement",
+        "c": "Project Management",
+        "d": "Sales and Marketing"
+      },
+       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
@@ -34,6 +51,125 @@
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "What is the main benefit of creating a WBS in a project?",
+      "answers": {
+        "a": "It helps to identify project risks and mitigation strategies",
+        "b": "It enables effective resource allocation and scheduling",
+        "c": "It provides a detailed, step-by-step guide for project execution",
+        "d": "It ensures compliance with regulatory requirements"
+      },
+        "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In an Instrumentation project company, which of the following is a typical organizational structure?",
+      "answers": {
+        "a": "Functional organization",
+        "b": "Matrix organization",
+        "c": "Projectized organization",
+        "d": "Hybrid organization"
+      },
+        "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What is the role of the Project Manager in an Instrumentation project company?",
+      "answers": {
+        "a": "To design and develop instrumentation systems",
+        "b": "To procure materials and equipment",
+        "c": "To oversee project execution and ensure timely delivery",
+        "d": "To manage the project budget and financials"
+      },
+        "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is a key element of a SOW?",
+      "answers": {
+        "a": "Project schedule and timelines",
+        "b": "Resource allocation and budget",
+        "c": "Scope of work and deliverables",
+        "d": "Risk management and mitigation strategies"
+      },
+       "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a WBS, what is a work package?",
+      "answers": {
+        "a": "A high-level project deliverable",
+        "b": "A mid-level task or activity",
+        "c": "A low-level, detailed task or activity",
+        "d": "A group of related tasks or activities"
+      },
+        "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In an Instrumentation project company, which department is typically responsible for designing and developing instrumentation systems?",
+      "answers": {
+        "a": "Engineering",
+        "b": "Project Management",
+        "c": "Procurement",
+        "d": "Quality Assurance"
+      },
+        "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the purpose of a WBS dictionary in a project?",
+      "answers": {
+        "a": "To provide a detailed, step-by-step guide for project execution",
+        "b": "To define the scope of work and deliverables",
+        "c": "To outline the project schedule and timelines",
+        "d": "To provide a detailed description of each task or activity in the WBS"
+      },
+        "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
     }
   ]
 }
