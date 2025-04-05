@@ -4,7 +4,7 @@ To study and prepare documents for SOW (Statement of Work)/WBS (Work Breakdown s
 
 ## Objectives
 
-- 	To list all the documents required for prepare the SOW/WBS for the project
-- 	To decide the chronological sequence for the activities involved in preparing process flow diagram
-- 	To identify various interconnections associated with the process flow diagram 
-- 	To implement the sample activities and check its efficacy
+- To list all the documents required for prepare the SOW/WBS for the project
+- To decide the chronological sequence for the activities involved in preparing process flow diagram
+- To identify various interconnections associated with the process flow diagram 
+- To implement the sample activities and check its efficacy
