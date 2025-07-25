@@ -121,9 +121,9 @@ function boilerSchema(){
                         </div>
                     </div>
                     
-                      <div class="col-12 mt-3">
-                      <div class="component" draggable="true" data-type="control">
-                            <img src="images/autoControl.png" alt="control" draggable="false" style="width: 30%;">
+                     <div class="col-12 mt-3">
+                        <div class="component" draggable="true" data-type="solu">
+                            <img src="images/soluArct.png" alt="solu" draggable="false" style="width: 50%;">
                         </div>
                     </div>
                      

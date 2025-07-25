@@ -359,10 +359,29 @@ $("#main-div").html(htm);
 	document.getElementById("next4").addEventListener("click", () => {
 		$("#validate3,#next4").prop("hidden",true);
 		$("#counter").prop("hidden",true);
-	var	htm = `<div>
+	/* var	htm = `<div>
                 <img src='images/image.png' class='img-fluid' 
                      style='border-style: double; border-color: black; display: block; margin: 10px auto; width: 100%; max-width: 1200px; margin-bottom : 60px;'>
-           </div>`;
+           </div>`; */
+		   
+	var	htm = `<div class="row" style="display:flex; margin-bottom: 50px;">
+	            <div class="col-6">
+				<img src='images/Consultant.JPG' class='img-fluid' 
+                     style='border-style: double; border-color: black; display: block; height:100%; width:100%'>
+				</div>
+				<div class="col-6">
+				<img src='images/Contractor.JPG' class='img-fluid' 
+                     style='border-style: double; border-color: black; display: block; height:100%; width:100%'>
+				</div>
+				<div class="col-6">
+				<img src='images/Client.JPG' class='img-fluid' 
+                     style='border-style: double; border-color: black; display: block; height:100%; width:100%'>
+				</div>
+				<div class="col-6">
+				<img src='images/ClientMgmt.JPG' class='img-fluid' 
+                     style='border-style: double; border-color: black; display: block; height:100%; width:100%'>	 
+           </div>
+		   </div>`;	   
            
            $("#main-div").html(htm);
 		
